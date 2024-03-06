@@ -12,5 +12,5 @@ This project focuses on diagnosing endometrial cancer through Whole Slide Images
 - Extracted morphological and color features based on a pathologist's protocol.
 - Utilized Logistic Regression for classification, emphasizing the features' significance in the diagnosis.
 - Medical Image Analysis Pipeline:
-       * Pre-processed WSI with resizing and color correction.
-       * Deployed the model on Paperspace using Tensor cores and Keras API.
+       - Pre-processed WSI with resizing and color correction.
+       - Deployed the model on Paperspace using Tensor cores and Keras API.
